@@ -1,7 +1,7 @@
 # CS405
 Portfolio submission for CS-405: Secure Software Development
 
-# CS-405 Portfolio Reflection
+## CS-405 Portfolio Reflection
 
 ## Key Learnings
 
